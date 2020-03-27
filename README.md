@@ -16,7 +16,7 @@ to play:
 
 run './run-jump' in the directory to play game after building game
 
-run './run-jump-ai' instead to play the ai version after building ai-version
+run './run-jump-ai' instead to play the ai version after building ai version
 
 Regular game:
 
