@@ -12,6 +12,12 @@ run 'make gameclean' to remove game and all object files for the game
 
 run 'make aiclean' to remove game with ai and all object files for it and ai files
 
+to play:
+
+run './run-jump' in the directory to play game after building game
+
+run './run-jump-ai' instead to play the ai version after building ai-version
+
 Regular game:
 
   on the screen:
